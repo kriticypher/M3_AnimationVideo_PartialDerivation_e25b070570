@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+*.log
+animation/scenes/*_frames/
+_Code/scenes/*_frames/
